@@ -1,0 +1,14 @@
+.title{
+    display: inline-block;
+    width:200px;
+    line-height: 22px;
+    vertical-align: middle;
+  }
+
+  .yesbutton{
+    vertical-align: middle;
+  }
+
+  .nobutton{
+    vertical-align: middle;
+  }
