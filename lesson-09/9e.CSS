@@ -1,0 +1,43 @@
+ .div-class{
+  width:400px;
+  transition: 0.15s;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.15);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 10px;
+  width: 450px;
+  border-radius:6px ;
+  }
+ .catpic{
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 100px;
+  vertical-align: middle; 
+  margin-right: 10px;
+ }
+
+ .title{
+  font-size: 16px;
+  border:none;
+  font-family: Arial;
+  width:200px;
+  vertical-align: middle;
+ }
+
+ .button{
+  background-color: rgb(29,155,240);
+  color:white;
+  border:none;
+  padding-top: 8px;
+  padding-bottom:8px;
+  padding-left:16px;
+  padding-right:16px;
+  border-radius:30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+  margin-left:20px;
+ }
