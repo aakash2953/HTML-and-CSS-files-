@@ -1,0 +1,44 @@
+p{
+  font-family: Arial;
+  color:rgb(14, 13, 13);
+  margin-top:0;
+  margin-bottom:0;
+
+  
+
+ }
+  .email{
+    margin-bottom:6px;
+  }
+
+  .Search-bar{
+    border-radius:2px;
+    border-style: solid;
+    border: width 2px;
+    border-color: rgb(100,100,100);
+    width: 350px;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom:7px;
+    margin-bottom:20px;
+    
+  }
+
+  .title{
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+
+  .button{
+    background-color: rgb(15, 15, 221);
+    color:white;
+    font-size:20px; 
+    text-align: center;
+    border:none;
+    border-radius: 60px;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+  }
