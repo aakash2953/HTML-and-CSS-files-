@@ -1,0 +1,69 @@
+.header{
+  display: flex;
+  flex-direction: row;
+
+}
+
+
+
+.left-section{
+  display:flex;
+  flex-direction: column;
+  background-color: rgb(63, 60, 60);
+  position:fixed;
+  width:100px;
+  top: 0px;
+  bottom:0px;
+  left:10px;
+}
+
+.funnycat{
+  width: 70px;
+  height: 70px;
+  border-radius:30px;
+  margin: 10px;
+}
+
+.cat2{
+  width: 70px;
+  height: 70px;
+  border-radius:30px;
+  margin:10px;
+}
+
+
+.cat3{
+  width: 70px;
+  height: 70px;
+  border-radius:30px;
+  margin:10px;
+}
+
+.middle-section{
+  display:flex;
+  flex-direction: column;
+  background-color: rgb(105, 99, 99);
+  position:fixed;
+  width:250px;
+  top: 0px;
+  bottom:0px;
+  left: 100px;
+}
+
+.Info-Title{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  align-items:center;
+  color: white;
+  margin-top: 10px;
+
+}
+
+.channel1{
+  color:white;
+  font-size: 18px;
+  margin-top:10px;
+  margin-left:10px;
+  align-items: center;
+}

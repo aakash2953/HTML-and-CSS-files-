@@ -1,0 +1,14 @@
+body{
+  height: 3000px;
+}
+
+.position{
+  background-color: black;
+  color: white;
+  width: 100px;
+  height: 25px;
+  position:fixed;
+  bottom: 20px;
+  right: 20px;
+
+}
